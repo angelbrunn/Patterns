@@ -1,0 +1,4 @@
+C:\Users\AGPB\Desktop\Patrones_TD\Builder\bin\Debug\Builder.exe
+C:\Users\AGPB\Desktop\Patrones_TD\Builder\bin\Debug\Builder.pdb
+C:\Users\AGPB\Desktop\Patrones_TD\Builder\obj\Debug\Builder.exe
+C:\Users\AGPB\Desktop\Patrones_TD\Builder\obj\Debug\Builder.pdb

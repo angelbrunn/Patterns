@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DesignPattern.Waiter">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Builder.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pizzabldr" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DesignPattern.PizzaBuilder">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Builder.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAASA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern.CheesePizzaBuilder">
+    <Position X="1.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Builder.cs</FileName>
+      <HashCode>AAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAASA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="product" />
+    </ShowAsAssociation>
+    <AssociationLine Name="product" Type="DesignPattern.Pizza" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="3.93" />
+        <Point X="2.5" Y="4.305" />
+        <Point X="7.562" Y="4.305" />
+        <Point X="7.562" Y="4.027" />
+      </Path>
+    </AssociationLine>
+  </Class>
+  <Class Name="DesignPattern.Pizza">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Builder.cs</FileName>
+      <HashCode>AAIAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern.MixedPizzaBuilder">
+    <Position X="4" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Builder.cs</FileName>
+      <HashCode>AAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAASA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="product" />
+    </ShowAsAssociation>
+  </Class>
+</ClassDiagram>

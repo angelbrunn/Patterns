@@ -1,0 +1,4 @@
+C:\Users\AGPB\Desktop\Patrones_TD\State\bin\Debug\State.exe
+C:\Users\AGPB\Desktop\Patrones_TD\State\bin\Debug\State.pdb
+C:\Users\AGPB\Desktop\Patrones_TD\State\obj\Debug\State.exe
+C:\Users\AGPB\Desktop\Patrones_TD\State\obj\Debug\State.pdb

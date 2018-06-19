@@ -1,0 +1,4 @@
+C:\Users\AGPB\Desktop\Patrones_TD\Strategy\bin\Debug\Strategy.exe
+C:\Users\AGPB\Desktop\Patrones_TD\Strategy\bin\Debug\Strategy.pdb
+C:\Users\AGPB\Desktop\Patrones_TD\Strategy\obj\Debug\Strategy.exe
+C:\Users\AGPB\Desktop\Patrones_TD\Strategy\obj\Debug\Strategy.pdb

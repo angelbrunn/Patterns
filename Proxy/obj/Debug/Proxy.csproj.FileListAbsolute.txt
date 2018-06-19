@@ -1,0 +1,4 @@
+C:\Users\AGPB\Desktop\Patrones_TD\Proxy\bin\Debug\Proxy.exe
+C:\Users\AGPB\Desktop\Patrones_TD\Proxy\bin\Debug\Proxy.pdb
+C:\Users\AGPB\Desktop\Patrones_TD\Proxy\obj\Debug\Proxy.exe
+C:\Users\AGPB\Desktop\Patrones_TD\Proxy\obj\Debug\Proxy.pdb
